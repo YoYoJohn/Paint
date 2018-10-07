@@ -1,0 +1,35 @@
+c:\users\user\documents\visual studio 2013\Projects\s1041410 HW7\s1041410 HW7\bin\Debug\s1041410 HW7.exe.config
+c:\users\user\documents\visual studio 2013\Projects\s1041410 HW7\s1041410 HW7\bin\Debug\s1041410 HW7.exe
+c:\users\user\documents\visual studio 2013\Projects\s1041410 HW7\s1041410 HW7\bin\Debug\s1041410 HW7.pdb
+c:\users\user\documents\visual studio 2013\Projects\s1041410 HW7\s1041410 HW7\obj\Debug\s1041410 HW7.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\s1041410 HW7\s1041410 HW7\obj\Debug\s1041410_HW7.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\s1041410 HW7\s1041410 HW7\obj\Debug\s1041410_HW7.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\s1041410 HW7\s1041410 HW7\obj\Debug\s1041410 HW7.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\s1041410 HW7\s1041410 HW7\obj\Debug\s1041410 HW7.exe
+c:\users\user\documents\visual studio 2013\Projects\s1041410 HW7\s1041410 HW7\obj\Debug\s1041410 HW7.pdb
+c:\users\user\documents\visual studio 2013\Projects\s1041410 HW7\s1041410 HW7\obj\Debug\s1041410_HW7.Form2.resources
+C:\Users\user\Desktop\s1041410 HW7\s1041410 HW7\bin\Debug\s1041410 HW7.exe.config
+C:\Users\user\Desktop\s1041410 HW7\s1041410 HW7\obj\Debug\s1041410 HW7.exe
+C:\Users\user\Desktop\s1041410 HW7\s1041410 HW7\obj\Debug\s1041410 HW7.pdb
+C:\Users\user\Desktop\s1041410 HW7\s1041410 HW7\bin\Debug\s1041410 HW7.exe
+C:\Users\user\Desktop\s1041410 HW7\s1041410 HW7\bin\Debug\s1041410 HW7.pdb
+C:\Users\user\Desktop\s1041410 HW7\s1041410 HW7\obj\Debug\s1041410 HW7.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\s1041410 HW7\s1041410 HW7\obj\Debug\s1041410_HW7.Form1.resources
+C:\Users\user\Desktop\s1041410 HW7\s1041410 HW7\obj\Debug\s1041410_HW7.Form2.resources
+C:\Users\user\Desktop\s1041410 HW7\s1041410 HW7\obj\Debug\s1041410_HW7.Properties.Resources.resources
+C:\Users\user\Desktop\s1041410 HW7\s1041410 HW7\obj\Debug\s1041410 HW7.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\s1041410 HW7\s1041410 HW7\obj\Debug\s1041410_HW7.Form3.resources
+C:\Users\user\Desktop\視窗程式設計\作業\HW7\s1041410 HW7\s1041410 HW7\bin\Debug\s1041410 HW7.exe.config
+C:\Users\user\Desktop\視窗程式設計\作業\HW7\s1041410 HW7\s1041410 HW7\obj\Debug\s1041410 HW7.exe
+C:\Users\user\Desktop\視窗程式設計\作業\HW7\s1041410 HW7\s1041410 HW7\obj\Debug\s1041410 HW7.pdb
+C:\Users\user\Desktop\收\作品\OK\HW7\s1041410 HW7\s1041410 HW7\bin\Debug\s1041410 HW7.exe.config
+C:\Users\user\Desktop\收\作品\OK\HW7\s1041410 HW7\s1041410 HW7\obj\Debug\s1041410 HW7.exe
+C:\Users\user\Desktop\收\作品\OK\HW7\s1041410 HW7\s1041410 HW7\obj\Debug\s1041410 HW7.pdb
+C:\Users\user\Desktop\收\作品\OK\HW7\s1041410 HW7\s1041410 HW7\bin\Debug\s1041410 HW7.exe
+C:\Users\user\Desktop\收\作品\OK\HW7\s1041410 HW7\s1041410 HW7\bin\Debug\s1041410 HW7.pdb
+C:\Users\user\Desktop\收\作品\OK\HW7\s1041410 HW7\s1041410 HW7\obj\Debug\s1041410 HW7.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\收\作品\OK\HW7\s1041410 HW7\s1041410 HW7\obj\Debug\s1041410_HW7.Form1.resources
+C:\Users\user\Desktop\收\作品\OK\HW7\s1041410 HW7\s1041410 HW7\obj\Debug\s1041410_HW7.Form2.resources
+C:\Users\user\Desktop\收\作品\OK\HW7\s1041410 HW7\s1041410 HW7\obj\Debug\s1041410_HW7.Form3.resources
+C:\Users\user\Desktop\收\作品\OK\HW7\s1041410 HW7\s1041410 HW7\obj\Debug\s1041410_HW7.Properties.Resources.resources
+C:\Users\user\Desktop\收\作品\OK\HW7\s1041410 HW7\s1041410 HW7\obj\Debug\s1041410 HW7.csproj.GenerateResource.Cache
